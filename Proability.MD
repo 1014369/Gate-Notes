@@ -1,6 +1,6 @@
 
 
-Prob stats full · MD
+
 # Probability & Statistics — Complete Formula Reference with Worked Examples
  
 Every formula is followed by a **dedicated worked example for that exact subtopic** — plus, at the end of each major section, one **integrated problem** that shows several of the section's formulas working together on a single real scenario.
